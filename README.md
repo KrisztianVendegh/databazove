@@ -9,7 +9,7 @@ Výsledný dátový model umožňuje efektívnu analýzu a vizualizáciu kľúč
 
 Cieľom projektu je analyzovať údaje týkajúce sa filmov, hercov a ich hodnotení. Táto analýza umožňuje lepšie pochopiť preferencie divákov, trendy vo filmovom priemysle a výkony hercov.
 
-Zdrojové dáta pochádzajú z Kaggle datasetu, ktorý obsahuje nasledujúce hlavné tabuľky:
+Zdrojové dáta pochádzajú z [Kaggle](https://www.kaggle.com/datasets/parthdande/imdb-dataset-2024-updated?select=IMDb_Dataset_2.csv) datasetu, ktorý obsahuje nasledujúce hlavné tabuľky:
 
 - `movies`: Informácie o tituloch, žánroch a roku vydania.
 - `actors`: Informácie o hercoch, ktorí účinkovali vo filmoch.
